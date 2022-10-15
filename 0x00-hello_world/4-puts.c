@@ -6,6 +6,8 @@
  */
 int main(void)
 {
-	printf("\"Programming is like building a multilingual puzzle");
+	char an_drel[] = "\"Programming is like building a multilingual puzzle"
+
+	puts(an_drel);
 	return (0);
 }
